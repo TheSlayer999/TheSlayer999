@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm David 👋</h1>
 
 <p align="center">
-  Computer Engineering student at the <b>University of Algarve (UAlg)</b> 🇵🇹<br>
-  Aiming for a <b>Full Stack + DevOps</b> career, working remotely with international teams.
+  Computer Science student at the <b>University of Algarve (UAlg)</b> 🇵🇹<br>
 </p>
 
 <p align="center">
