@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm David 👋</h1>
+<h1 align="center">Hi, I'm David Jesus 👋</h1>
  
 <p align="center">
   Computer Engineering student at the <b>University of Algarve (UAlg)</b> 🇵🇹
@@ -7,7 +7,6 @@
   <a href="https://david-personal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/david-jesus-60831230a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
----
  
 ## 🚀 About me
  
